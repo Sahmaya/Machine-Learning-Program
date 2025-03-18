@@ -27,8 +27,11 @@ This project is a MASSEY Machine simulator written in C++. It is based on a simu
     <li><b>Halt instruction for program termination</b></li>
 </ul>
 
+<h2> Massey Machine Code Instructions </h2>
+[Massey Machine Code.pdf](https://github.com/user-attachments/files/19304797/Massey.Machine.Code.pdf)
+
 <h2> Here is the following C++ Program </h2>
-https://github.com/Sahmaya/Machine-Learning-Program 
+https://github.com/Sahmaya/Machine-Learning-Program/blob/main/Machine%20code%20simulation%20.cpp
 
 
 
