@@ -1,60 +1,39 @@
-# Machine-Learning-Program
+# Machine learning Program-
 
-<h1>JWipe - Disk Sanitization</h1>
+<h1> Machine Learning Program Assignment</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
-<br />
+This project is a MASSEY Machine simulator written in C++. It is based on a simulated machine code system created by Massey University. The simulator reads and executes 16-bit machine code instructions from a file, mimicking the behavior of a simple CPU. Each instruction consists of an opcode and operands, enabling basic arithmetic, logical operations, memory manipulation, and program control.
 
 
-<h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
 
-<h2>Environments Used </h2>
+<h2>Features</h2>
+<b>           
+- Reads MASSEY machine code from a file
+- Decodes and executes 16-bit instructions
+- Simulates a register-based CPU architecture
+- Supports register operations, memory storage, arithmetic, logical operations, and branching
+- Displays program execution step-by-step
+</b>
 
-- <b>Windows 10</b> (21H2)
+<h2> Supported Instructions</h2>
+<b>
+- Load/store registers and memory
+- Integer addition, negation, bit shifts
+- Logical operations (AND, OR, XOR)
+- Conditional jumps
+- Halt instruction for program termination
+</b>
 
-<h2>Program walk-through:</h2>
+<h2> Here is the following C++ Program </h2>
+https://github.com/Sahmaya/C-Program-/blob/main/C%2B%2BProgram-%20Sahmaya%20Anderson-Edwards%20.cpp 
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
+
+
+
+
+
