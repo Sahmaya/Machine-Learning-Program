@@ -28,7 +28,8 @@ This project is a MASSEY Machine simulator written in C++. It is based on a simu
 </ul>
 
 <h2> Massey Machine Code Instructions </h2>
-![Massey Machine Code](https://github.com/user-attachments/assets/c32b2a76-4df6-4321-8b26-d0561f977618)
+[Massey Machine Code.pdf](https://github.com/user-attachments/files/19304827/Massey.Machine.Code.pdf)
+
 
 
 <h2> Here is the following C++ Program </h2>
