@@ -10,22 +10,22 @@ This project is a MASSEY Machine simulator written in C++. It is based on a simu
 
 
 <h2>Features</h2>
-<b>           
-- Reads MASSEY machine code from a file
-- Decodes and executes 16-bit instructions
-- Simulates a register-based CPU architecture
-- Supports register operations, memory storage, arithmetic, logical operations, and branching
-- Displays program execution step-by-step
-</b>
+<ul>   
+<li><b> Reads MASSEY machine code from a file </b></li>
+<li><b> Decodes and executes 16-bit instructions</b></li>
+<li><b> Simulates a register-based CPU architecture</b></li>
+<li><b> Supports register operations, memory storage, arithmetic, logical operations, and branching</b></li>
+<li><b> Displays program execution step-by-step</b></li>
 
-<h2> Supported Instructions</h2>
-<b>
-- Load/store registers and memory
-- Integer addition, negation, bit shifts
-- Logical operations (AND, OR, XOR)
-- Conditional jumps
-- Halt instruction for program termination
-</b>
+
+<h2>Supported Instructions</h2>
+<ul>
+    <li><b>Load/store registers and memory</b></li>
+    <li><b>Integer addition, negation, bit shifts</b></li>
+    <li><b>Logical operations (AND, OR, XOR)</b></li>
+    <li><b>Conditional jumps</b></li>
+    <li><b>Halt instruction for program termination</b></li>
+</ul>
 
 <h2> Here is the following C++ Program </h2>
 https://github.com/Sahmaya/Machine-Learning-Program 
